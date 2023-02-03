@@ -19,8 +19,8 @@ Rodar projeto no Google Colab(supondo que tenha baixado os arquivos do repositó
     <li>Em Arquivo escolha Abrir notebook</li>
     <li>Escolha o arquivo Relatorio.ipynb</li>
     <li>Lembre-se de fazer o upload das tabelas:</li>
-      *desafio_manutencao_preditiva_teste.csv*
-      *desafio_manutencao_preditiva_treino.csv*
+      *desafio_manutencao_preditiva_teste.csv
+      *desafio_manutencao_preditiva_treino.csv
     <li>Execute as células</li>
   </ol>
 </h3>
