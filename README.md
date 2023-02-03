@@ -13,7 +13,7 @@ Rodar projeto em um ambiente virtual:
   </ol>
 Rodar projeto no Google Colab
   <ol>
-  
-  <ǒl>
+    <link>https://colab.research.google.com/</link>
+  </ol>
 
 </h3>
