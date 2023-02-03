@@ -9,11 +9,18 @@ Rodar projeto em um ambiente virtual:
     <code>pip install -r requirements.txt</code>
     <li>Execute o jupyter notebook<ľi>
     <li>Escolha o kernel instalado</li>
-    <li>Abra o arquivo Relatorio.ipynb
+    <li>Abra o arquivo Relatorio.ipynb</li>
+    <li>Execute as células</li>
   </ol>
-Rodar projeto no Google Colab
+Rodar projeto no Google Colab(supondo que tenha baixado os arquivos do repositório)
   <ol>
+    <li>Acesse o link:</li>
     <link>https://colab.research.google.com/</link>
+    <li>Em Arquivo escolha Abrir notebook</li>
+    <li>escolha o arquivo Relatorio.ipynb</li>
+    <li>Lembre-se de fazer o upload das tabelas:</li>
+    <li>desafio_manutencao_preditiva_teste.csv</li>
+    <li>desafio_manutencao_preditiva_treino.csv</li>
+    <li>Execute as células</li>
   </ol>
-
 </h3>
